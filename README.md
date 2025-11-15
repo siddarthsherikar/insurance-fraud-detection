@@ -1,0 +1,1 @@
+This project builds a mechine learning system to detect fraudulent insurance clamis by analyzing patterns, anomalies, and key features. It improves  accuracy, reduces financial losses, and help insurers identify suspicious claims efficiently.
